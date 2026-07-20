@@ -16,10 +16,14 @@ Sponsors can fund focused work on public GitHub issues through two clear paths:
   verification notes where available, and implementation guidance.
 - **Repair Priority**: Scarab Systems reviews a selected public issue and
   provides diagnostics plus patch delivery, in the form of a public patch branch
-  or upstream-ready pull request.
+  or an upstream-ready pull request where appropriate.
 
-Patch delivery means a source change prepared for the public project. Upstream
-maintainers control review, acceptance, merge, and release timing.
+Patch delivery means a public source change prepared for the target project. It
+does not guarantee maintainer review, acceptance, merge, release inclusion, or
+downstream adoption.
+
+Sponsors fund public open-source diagnostics and repair work. Private repository
+reviews should be requested through the Scarab Systems website.
 
 ## Public Evidence
 
