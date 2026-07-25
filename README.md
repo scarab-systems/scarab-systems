@@ -1,11 +1,40 @@
 # Scarab Systems
 
-Scarab Systems provides evidence-backed diagnostics and patch delivery for
-public open-source software issues.
+Scarab Systems is an open-source contributor with **16 merged public patches
+across 11 repositories**, including Docker, Electron, Microsoft, NVIDIA, pnpm,
+SvelteKit, Directus, OpenAPI Generator, and other established projects.
 
-We work on difficult public issues across developer platforms: runtime failures,
-workflow drift, boundary bugs, integration breaks, and repair paths that need
-careful diagnosis before code changes.
+Scarab Systems works on difficult public issues across developer platforms:
+runtime failures, workflow drift, boundary bugs, integration breaks, test
+coverage gaps, and repair paths that need careful diagnosis before code changes.
+
+The full public contribution record is maintained in the
+[Scarab Field Lab](https://github.com/scarab-systems/scarab-field-lab), which
+documents diagnostic findings, validation summaries, upstream pull request
+status, and clear non-claims.
+
+## Current Focus
+
+- Public open-source diagnostics for real issues and repository drift.
+- Scoped patch delivery with repository-native tests and checks.
+- Maintainer review follow-through.
+- Public evidence records that separate merged outcomes from private tooling.
+
+## Verified Public Record
+
+A compact selection from the current accepted record:
+
+- [Docker Compose](https://github.com/docker/compose/pull/13831)
+- [Electron](https://github.com/electron/electron/pull/52238)
+- [Microsoft Agent Framework](https://github.com/microsoft/agent-framework/pull/7189)
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw/pull/7254)
+- [Open Multi Agent](https://github.com/open-multi-agent/open-multi-agent/pull/377)
+- [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator/pull/24022)
+- [pnpm](https://github.com/pnpm/pnpm/pull/12301)
+- [SvelteKit](https://github.com/sveltejs/kit/pull/16268)
+
+See the [Field Lab summary](https://github.com/scarab-systems/scarab-field-lab)
+for the complete 16-contribution table and case records.
 
 ## Sponsor-Selected Issue Work
 
@@ -25,28 +54,10 @@ downstream adoption.
 Sponsors fund public open-source diagnostics and repair work. Private repository
 reviews should be requested through the Scarab Systems website.
 
-## Public Evidence
-
-Scarab Systems keeps public case records in the
-[Scarab Field Lab](https://github.com/scarab-systems/scarab-field-lab), including
-diagnostic findings, validation summaries, upstream pull request status, and
-clear non-claims.
-
-Selected upstream work includes accepted or merged pull requests in projects
-such as:
-
-- [Docker Compose](https://github.com/docker/compose/pull/13831)
-- [pnpm](https://github.com/pnpm/pnpm/pull/12301)
-- [pnpm](https://github.com/pnpm/pnpm/pull/12327)
-- [SvelteKit](https://github.com/sveltejs/kit/pull/16268)
-- [SvelteKit](https://github.com/sveltejs/kit/pull/16423)
-- [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator/pull/24022)
-- [xdg-desktop-portal-wlr](https://github.com/emersion/xdg-desktop-portal-wlr/pull/393)
-
 ## Links
 
 - Website: [scarabdiagnostics.com](https://scarabdiagnostics.com)
 - Public field records:
   [scarab-systems/scarab-field-lab](https://github.com/scarab-systems/scarab-field-lab)
 - Sponsors:
-  [github.com/sponsors/scarab-systems](https://github.com/sponsors/scarab-systems)
+  [github.com/sponsors/scarab-systems](https://github.com/sponsors/scarab-systems?metadata_campaign=github_profile)
