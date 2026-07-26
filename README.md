@@ -56,57 +56,14 @@ The full contribution table and case records live in the
 
 ## Selected Merged Work
 
-<table>
-  <tr>
-    <th></th>
-    <th align="left">Project</th>
-    <th align="left">Area</th>
-    <th align="left">Status</th>
-    <th align="left">Example PR</th>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/docker.png?size=64" width="32" alt="Docker avatar"></td>
-    <td><strong>Docker Compose</strong></td>
-    <td>Container tooling</td>
-    <td>✅ Merged</td>
-    <td><a href="https://github.com/docker/compose/pull/13831">docker/compose#13831</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/microsoft.png?size=64" width="32" alt="Microsoft avatar"></td>
-    <td><strong>Microsoft Agent Framework</strong></td>
-    <td>Agent framework</td>
-    <td>✅ Merged</td>
-    <td><a href="https://github.com/microsoft/agent-framework/pull/7189">microsoft/agent-framework#7189</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/NVIDIA.png?size=64" width="32" alt="NVIDIA avatar"></td>
-    <td><strong>NVIDIA/NemoClaw</strong></td>
-    <td>AI infrastructure</td>
-    <td>✅ Merged</td>
-    <td><a href="https://github.com/NVIDIA/NemoClaw/pull/7254">NVIDIA/NemoClaw#7254</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/open-multi-agent.png?size=64" width="32" alt="Open Multi Agent avatar"></td>
-    <td><strong>Open Multi Agent</strong></td>
-    <td>Multi-agent systems</td>
-    <td>✅ Merged</td>
-    <td><a href="https://github.com/open-multi-agent/open-multi-agent/pull/377">open-multi-agent#377</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/pnpm.png?size=64" width="32" alt="pnpm avatar"></td>
-    <td><strong>pnpm</strong></td>
-    <td>Package management</td>
-    <td>✅ Merged</td>
-    <td><a href="https://github.com/pnpm/pnpm/pull/12301">pnpm/pnpm#12301</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/sveltejs.png?size=64" width="32" alt="Svelte avatar"></td>
-    <td><strong>SvelteKit</strong></td>
-    <td>Web framework</td>
-    <td>✅ Merged</td>
-    <td><a href="https://github.com/sveltejs/kit/pull/16268">sveltejs/kit#16268</a></td>
-  </tr>
-</table>
+| Project | Area | Example PR |
+| --- | --- | --- |
+| [![Docker Compose merged](https://img.shields.io/static/v1?label=Docker%20Compose&message=merged&color=238636&labelColor=2496ED&style=for-the-badge&logo=docker&logoColor=white)](https://github.com/docker/compose/pull/13831) | Container tooling | [docker/compose#13831](https://github.com/docker/compose/pull/13831) |
+| [![Microsoft Agent Framework merged](https://img.shields.io/static/v1?label=Microsoft%20Agent%20Framework&message=merged&color=238636&labelColor=5E5E5E&style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/microsoft/agent-framework/pull/7189) | Agent framework | [microsoft/agent-framework#7189](https://github.com/microsoft/agent-framework/pull/7189) |
+| [![NVIDIA NemoClaw merged](https://img.shields.io/static/v1?label=NVIDIA%20NemoClaw&message=merged&color=238636&labelColor=76B900&style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/NVIDIA/NemoClaw/pull/7254) | AI infrastructure | [NVIDIA/NemoClaw#7254](https://github.com/NVIDIA/NemoClaw/pull/7254) |
+| [![Open Multi Agent merged](https://img.shields.io/static/v1?label=Open%20Multi%20Agent&message=merged&color=238636&labelColor=6F42C1&style=for-the-badge&logo=github&logoColor=white)](https://github.com/open-multi-agent/open-multi-agent/pull/377) | Multi-agent systems | [open-multi-agent#377](https://github.com/open-multi-agent/open-multi-agent/pull/377) |
+| [![pnpm merged](https://img.shields.io/static/v1?label=pnpm&message=merged&color=238636&labelColor=F69220&style=for-the-badge&logo=pnpm&logoColor=white)](https://github.com/pnpm/pnpm/pull/12301) | Package management | [pnpm/pnpm#12301](https://github.com/pnpm/pnpm/pull/12301) |
+| [![SvelteKit merged](https://img.shields.io/static/v1?label=SvelteKit&message=merged&color=238636&labelColor=FF3E00&style=for-the-badge&logo=svelte&logoColor=white)](https://github.com/sveltejs/kit/pull/16268) | Web framework | [sveltejs/kit#16268](https://github.com/sveltejs/kit/pull/16268) |
 
 ## Repeat Contributions
 
