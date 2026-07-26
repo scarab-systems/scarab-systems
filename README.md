@@ -56,6 +56,20 @@ The full contribution table and case records live in the
 
 ## Selected Merged Work
 
+<p align="center">
+  <a href="https://github.com/docker/compose/pull/13831"><img src="https://github.com/docker.png?size=96" width="54" height="54" alt="Docker Compose"></a>
+  &nbsp;
+  <a href="https://github.com/microsoft/agent-framework/pull/7189"><img src="https://github.com/microsoft.png?size=96" width="54" height="54" alt="Microsoft Agent Framework"></a>
+  &nbsp;
+  <a href="https://github.com/NVIDIA/NemoClaw/pull/7254"><img src="https://github.com/NVIDIA.png?size=96" width="54" height="54" alt="NVIDIA NemoClaw"></a>
+  &nbsp;
+  <a href="https://github.com/open-multi-agent/open-multi-agent/pull/377"><img src="https://github.com/open-multi-agent.png?size=96" width="54" height="54" alt="Open Multi Agent"></a>
+  &nbsp;
+  <a href="https://github.com/pnpm/pnpm/pull/12301"><img src="https://github.com/pnpm.png?size=96" width="54" height="54" alt="pnpm"></a>
+  &nbsp;
+  <a href="https://github.com/sveltejs/kit/pull/16268"><img src="https://github.com/sveltejs.png?size=96" width="54" height="54" alt="SvelteKit"></a>
+</p>
+
 | Project | Area | Status | Example PR |
 | --- | --- | --- | --- |
 | Docker Compose | Container tooling | ✅ Merged | [docker/compose#13831](https://github.com/docker/compose/pull/13831) |
