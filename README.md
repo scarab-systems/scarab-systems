@@ -64,37 +64,37 @@ The full contribution table and case records live in the
     <th align="left">Example PR</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/docker/compose/pull/13831"><img src="https://github.com/docker.png?size=96" width="40" height="40" alt="Docker Compose"></a> <strong>Docker Compose</strong></td>
+    <td><a href="https://github.com/docker/compose/pull/13831"><img src="https://github.com/docker.png?size=96" width="24" height="24" alt="Docker Compose"></a> <strong>Docker Compose</strong></td>
     <td>Container tooling</td>
     <td>✅ Merged</td>
     <td><a href="https://github.com/docker/compose/pull/13831">docker/compose#13831</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/microsoft/agent-framework/pull/7189"><img src="https://github.com/microsoft.png?size=96" width="40" height="40" alt="Microsoft Agent Framework"></a> <strong>Microsoft Agent Framework</strong></td>
+    <td><a href="https://github.com/microsoft/agent-framework/pull/7189"><img src="https://github.com/microsoft.png?size=96" width="24" height="24" alt="Microsoft Agent Framework"></a> <strong>Microsoft Agent Framework</strong></td>
     <td>Agent framework</td>
     <td>✅ Merged</td>
     <td><a href="https://github.com/microsoft/agent-framework/pull/7189">microsoft/agent-framework#7189</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/NVIDIA/NemoClaw/pull/7254"><img src="https://github.com/NVIDIA.png?size=96" width="40" height="40" alt="NVIDIA NemoClaw"></a> <strong>NVIDIA/NemoClaw</strong></td>
+    <td><a href="https://github.com/NVIDIA/NemoClaw/pull/7254"><img src="https://github.com/NVIDIA.png?size=96" width="24" height="24" alt="NVIDIA NemoClaw"></a> <strong>NVIDIA/NemoClaw</strong></td>
     <td>AI infrastructure</td>
     <td>✅ Merged</td>
     <td><a href="https://github.com/NVIDIA/NemoClaw/pull/7254">NVIDIA/NemoClaw#7254</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/open-multi-agent/open-multi-agent/pull/377"><img src="https://github.com/open-multi-agent.png?size=96" width="40" height="40" alt="Open Multi Agent"></a> <strong>Open Multi Agent</strong></td>
+    <td><a href="https://github.com/open-multi-agent/open-multi-agent/pull/377"><img src="https://github.com/open-multi-agent.png?size=96" width="24" height="24" alt="Open Multi Agent"></a> <strong>Open Multi Agent</strong></td>
     <td>Multi-agent systems</td>
     <td>✅ Merged</td>
     <td><a href="https://github.com/open-multi-agent/open-multi-agent/pull/377">open-multi-agent#377</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/pnpm/pnpm/pull/12301"><img src="https://github.com/pnpm.png?size=96" width="40" height="40" alt="pnpm"></a> <strong>pnpm</strong></td>
+    <td><a href="https://github.com/pnpm/pnpm/pull/12301"><img src="https://github.com/pnpm.png?size=96" width="24" height="24" alt="pnpm"></a> <strong>pnpm</strong></td>
     <td>Package management</td>
     <td>✅ Merged</td>
     <td><a href="https://github.com/pnpm/pnpm/pull/12301">pnpm/pnpm#12301</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/sveltejs/kit/pull/16268"><img src="https://github.com/sveltejs.png?size=96" width="40" height="40" alt="SvelteKit"></a> <strong>SvelteKit</strong></td>
+    <td><a href="https://github.com/sveltejs/kit/pull/16268"><img src="https://github.com/sveltejs.png?size=96" width="24" height="24" alt="SvelteKit"></a> <strong>SvelteKit</strong></td>
     <td>Web framework</td>
     <td>✅ Merged</td>
     <td><a href="https://github.com/sveltejs/kit/pull/16268">sveltejs/kit#16268</a></td>
