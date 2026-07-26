@@ -1,63 +1,101 @@
-# Scarab Systems
+<p align="center">
+  <img src="https://raw.githubusercontent.com/scarab-systems/scarab-field-lab/main/assets/scarab-mascot.png" alt="Scarab Systems mascot" width="140">
+</p>
 
-Scarab Systems is an open-source contributor with **16 merged public patches
-across 11 repositories**, including Docker, Electron, Microsoft, NVIDIA, pnpm,
-SvelteKit, Directus, OpenAPI Generator, and other established projects.
+<h1 align="center">Scarab Systems</h1>
 
-Scarab Systems works on difficult public issues across developer platforms:
-runtime failures, workflow drift, boundary bugs, integration breaks, test
-coverage gaps, and repair paths that need careful diagnosis before code changes.
+<p align="center">
+  <strong>Public open-source diagnostics and scoped patch delivery.</strong><br>
+  16 merged contributions across 11 repositories.
+</p>
 
-The full public contribution record is maintained in the
-[Scarab Field Lab](https://github.com/scarab-systems/scarab-field-lab), which
-documents diagnostic findings, validation summaries, upstream pull request
-status, and clear non-claims.
+<p align="center">
+  <a href="https://github.com/scarab-systems/scarab-field-lab">Field Lab</a>
+  ·
+  <a href="https://github.com/sponsors/scarab-systems?metadata_campaign=github_profile">Sponsors</a>
+  ·
+  <a href="https://scarabdiagnostics.com">Website</a>
+</p>
 
-## Current Focus
+---
 
-- Public open-source diagnostics for real issues and repository drift.
-- Scoped patch delivery with repository-native tests and checks.
-- Maintainer review follow-through.
-- Public evidence records that separate merged outcomes from private tooling.
+## What Scarab Systems Does
+
+Scarab Systems investigates public open-source issues where useful repairs need
+careful diagnosis before code changes.
+
+The work focuses on:
+
+- tracing real failures through unfamiliar repositories;
+- identifying narrow repair boundaries;
+- developing scoped patches with repository-native tests and checks;
+- responding to maintainer review;
+- recording public outcomes with clear claim limits.
 
 ## Verified Public Record
 
-A compact selection from the current accepted record:
+| Metric | Current Record |
+| --- | ---: |
+| Merged public contributions | 16 |
+| Repositories with accepted work | 11 |
+| Repositories accepting repeat contributions | 4 |
+| Public proof repository | [Scarab Field Lab](https://github.com/scarab-systems/scarab-field-lab) |
 
-- [Docker Compose](https://github.com/docker/compose/pull/13831)
-- [Electron](https://github.com/electron/electron/pull/52238)
-- [Microsoft Agent Framework](https://github.com/microsoft/agent-framework/pull/7189)
-- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw/pull/7254)
-- [Open Multi Agent](https://github.com/open-multi-agent/open-multi-agent/pull/377)
-- [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator/pull/24022)
-- [pnpm](https://github.com/pnpm/pnpm/pull/12301)
-- [SvelteKit](https://github.com/sveltejs/kit/pull/16268)
+Accepted work includes contributions to Docker Compose, Electron, Microsoft
+Agent Framework, NVIDIA/NemoClaw, Open Multi Agent, OpenAPI Generator, pnpm,
+SvelteKit, Directus, Twenty, and xdg-desktop-portal-wlr.
 
-See the [Field Lab summary](https://github.com/scarab-systems/scarab-field-lab)
-for the complete 16-contribution table and case records.
+The full contribution table and case records live in the
+[Scarab Field Lab](https://github.com/scarab-systems/scarab-field-lab).
 
-## Sponsor-Selected Issue Work
+## Selected Merged Work
 
-Sponsors can fund focused work on public GitHub issues through two clear paths:
+| Project | Area | Example PR |
+| --- | --- | --- |
+| Docker Compose | Container tooling | [docker/compose#13831](https://github.com/docker/compose/pull/13831) |
+| Microsoft Agent Framework | Agent framework | [microsoft/agent-framework#7189](https://github.com/microsoft/agent-framework/pull/7189) |
+| NVIDIA/NemoClaw | AI infrastructure | [NVIDIA/NemoClaw#7254](https://github.com/NVIDIA/NemoClaw/pull/7254) |
+| Open Multi Agent | Multi-agent systems | [open-multi-agent/open-multi-agent#377](https://github.com/open-multi-agent/open-multi-agent/pull/377) |
+| pnpm | Package management | [pnpm/pnpm#12301](https://github.com/pnpm/pnpm/pull/12301) |
+| SvelteKit | Web framework | [sveltejs/kit#16268](https://github.com/sveltejs/kit/pull/16268) |
 
-- **Diagnostic Priority**: Scarab Systems reviews a selected public issue and
-  provides a concise finding, likely failure boundary, reproduction or
-  verification notes where available, and implementation guidance.
-- **Repair Priority**: Scarab Systems reviews a selected public issue and
-  provides diagnostics plus patch delivery, in the form of a public patch branch
-  or an upstream-ready pull request where appropriate.
+## Repeat Contributions
 
-Patch delivery means a public source change prepared for the target project. It
-does not guarantee maintainer review, acceptance, merge, release inclusion, or
-downstream adoption.
+Repeat accepted work matters because it shows more than a one-off patch. It
+means learning a repository's conventions, incorporating maintainer feedback,
+and continuing to work productively inside the project's own standards.
 
-Sponsors fund public open-source diagnostics and repair work. Private repository
-reviews should be requested through the Scarab Systems website.
+Repositories with multiple accepted contributions:
 
-## Links
+- `pnpm/pnpm` - 3
+- `NVIDIA/NemoClaw` - 2
+- `open-multi-agent/open-multi-agent` - 2
+- `sveltejs/kit` - 2
 
-- Website: [scarabdiagnostics.com](https://scarabdiagnostics.com)
-- Public field records:
-  [scarab-systems/scarab-field-lab](https://github.com/scarab-systems/scarab-field-lab)
-- Sponsors:
-  [github.com/sponsors/scarab-systems](https://github.com/sponsors/scarab-systems?metadata_campaign=github_profile)
+## Sponsorship
+
+Sponsorship supports dedicated time for public open-source diagnostics, scoped
+patch development, regression testing, documentation, and contribution
+follow-through.
+
+Sponsor-selected work can fund:
+
+- diagnostic reports for selected public issues;
+- diagnostic reports plus scoped patch delivery;
+- ongoing public open-source repair work;
+- Field Lab documentation and evidence maintenance.
+
+Patch delivery does not guarantee maintainer review, acceptance, merge, release
+inclusion, or downstream adoption. Maintainers remain the final authority for
+their own projects.
+
+[github.com/sponsors/scarab-systems](https://github.com/sponsors/scarab-systems?metadata_campaign=github_profile)
+
+## Public Boundary
+
+Scarab Systems may use proprietary diagnostic tooling to support repository
+analysis, evidence gathering, patch validation, and scope control.
+
+That tooling is not open source. Public records focus on linked issues, merged
+pull requests, validation summaries, changed public files, review outcomes, and
+clear non-claims.
