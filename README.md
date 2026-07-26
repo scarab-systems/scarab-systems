@@ -10,6 +10,12 @@
 </p>
 
 <p align="center">
+  ✅ 16 merged contributions &nbsp; · &nbsp;
+  ✅ 11 repositories &nbsp; · &nbsp;
+  ✅ 4 repeat-accepting projects
+</p>
+
+<p align="center">
   <a href="https://github.com/scarab-systems/scarab-field-lab">Field Lab</a>
   ·
   <a href="https://github.com/sponsors/scarab-systems?metadata_campaign=github_profile">Sponsors</a>
@@ -50,14 +56,57 @@ The full contribution table and case records live in the
 
 ## Selected Merged Work
 
-| Project | Area | Example PR |
-| --- | --- | --- |
-| Docker Compose | Container tooling | [docker/compose#13831](https://github.com/docker/compose/pull/13831) |
-| Microsoft Agent Framework | Agent framework | [microsoft/agent-framework#7189](https://github.com/microsoft/agent-framework/pull/7189) |
-| NVIDIA/NemoClaw | AI infrastructure | [NVIDIA/NemoClaw#7254](https://github.com/NVIDIA/NemoClaw/pull/7254) |
-| Open Multi Agent | Multi-agent systems | [open-multi-agent/open-multi-agent#377](https://github.com/open-multi-agent/open-multi-agent/pull/377) |
-| pnpm | Package management | [pnpm/pnpm#12301](https://github.com/pnpm/pnpm/pull/12301) |
-| SvelteKit | Web framework | [sveltejs/kit#16268](https://github.com/sveltejs/kit/pull/16268) |
+<table>
+  <tr>
+    <th></th>
+    <th align="left">Project</th>
+    <th align="left">Area</th>
+    <th align="left">Status</th>
+    <th align="left">Example PR</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/docker.png?size=64" width="32" alt="Docker avatar"></td>
+    <td><strong>Docker Compose</strong></td>
+    <td>Container tooling</td>
+    <td>✅ Merged</td>
+    <td><a href="https://github.com/docker/compose/pull/13831">docker/compose#13831</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/microsoft.png?size=64" width="32" alt="Microsoft avatar"></td>
+    <td><strong>Microsoft Agent Framework</strong></td>
+    <td>Agent framework</td>
+    <td>✅ Merged</td>
+    <td><a href="https://github.com/microsoft/agent-framework/pull/7189">microsoft/agent-framework#7189</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/NVIDIA.png?size=64" width="32" alt="NVIDIA avatar"></td>
+    <td><strong>NVIDIA/NemoClaw</strong></td>
+    <td>AI infrastructure</td>
+    <td>✅ Merged</td>
+    <td><a href="https://github.com/NVIDIA/NemoClaw/pull/7254">NVIDIA/NemoClaw#7254</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/open-multi-agent.png?size=64" width="32" alt="Open Multi Agent avatar"></td>
+    <td><strong>Open Multi Agent</strong></td>
+    <td>Multi-agent systems</td>
+    <td>✅ Merged</td>
+    <td><a href="https://github.com/open-multi-agent/open-multi-agent/pull/377">open-multi-agent#377</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/pnpm.png?size=64" width="32" alt="pnpm avatar"></td>
+    <td><strong>pnpm</strong></td>
+    <td>Package management</td>
+    <td>✅ Merged</td>
+    <td><a href="https://github.com/pnpm/pnpm/pull/12301">pnpm/pnpm#12301</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/sveltejs.png?size=64" width="32" alt="Svelte avatar"></td>
+    <td><strong>SvelteKit</strong></td>
+    <td>Web framework</td>
+    <td>✅ Merged</td>
+    <td><a href="https://github.com/sveltejs/kit/pull/16268">sveltejs/kit#16268</a></td>
+  </tr>
+</table>
 
 ## Repeat Contributions
 
