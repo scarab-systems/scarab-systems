@@ -56,7 +56,7 @@ The full contribution table and case records live in the
 
 ## Recent Release Recognition
 
-NVIDIA/NemoClaw's v0.0.96 announcement thanked external contributors whose work
+<a href="https://github.com/NVIDIA/NemoClaw"><img src="https://github.com/NVIDIA.png?size=96" width="24" height="24" alt="NVIDIA NemoClaw"></a> NVIDIA/NemoClaw's v0.0.96 announcement thanked external contributors whose work
 shipped in the release, including `@scarab-systems` for onboarding resume
 coverage and incomplete lifecycle diagnostics in
 [#7254](https://github.com/NVIDIA/NemoClaw/pull/7254) and
