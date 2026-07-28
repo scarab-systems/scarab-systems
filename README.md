@@ -125,24 +125,17 @@ Repositories with multiple accepted contributions:
 - `open-multi-agent/open-multi-agent` - 2
 - `sveltejs/kit` - 2
 
-## Sponsorship
+## Why Sponsorship Matters
 
-Sponsorship supports dedicated time for public open-source diagnostics, scoped
-patch development, regression testing, documentation, and contribution
-follow-through.
+I developed Scarab Diagnostics to help me investigate difficult software problems and provide practical, evidence-backed assistance to open-source projects.
 
-Sponsor-selected work can fund:
+The software gives me the capability to trace failures, define focused repair boundaries, develop patches, and validate them within unfamiliar repositories. That work has already resulted in accepted contributions across multiple public projects.
 
-- diagnostic reports for selected public issues;
-- diagnostic reports plus scoped patch delivery;
-- ongoing public open-source repair work;
-- Field Lab documentation and evidence maintenance.
+What limits how much I can contribute is the amount of time I can sustainably dedicate to the work.
 
-Patch delivery does not guarantee maintainer review, acceptance, merge, release
-inclusion, or downstream adoption. Maintainers remain the final authority for
-their own projects.
+GitHub sponsorship would directly help support me while I investigate public issues, implement and test patches, respond to maintainer feedback, and follow contributions through to completion. It would allow me to spend less time securing unrelated income and more time providing real, measurable help to open-source projects.
 
-[github.com/sponsors/scarab-systems](https://github.com/sponsors/scarab-systems?metadata_campaign=github_profile)
+The work remains public. Sponsors are helping create the time and financial stability needed for me to do more of it.
 
 ## Public Boundary
 
