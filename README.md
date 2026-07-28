@@ -54,15 +54,15 @@ SvelteKit, Directus, Twenty, and xdg-desktop-portal-wlr.
 The full contribution table and case records live in the
 [Scarab Field Lab](https://github.com/scarab-systems/scarab-field-lab).
 
-## Recent Release Recognition
+## Recent Release And Pickup Signals
 
-<a href="https://github.com/NVIDIA/NemoClaw"><img src="https://github.com/NVIDIA.png?size=96" width="24" height="24" alt="NVIDIA NemoClaw"></a> NVIDIA/NemoClaw's v0.0.96 announcement thanked external contributors whose work
-shipped in the release, including `@scarab-systems` for onboarding resume
-coverage and incomplete lifecycle diagnostics in
-[#7254](https://github.com/NVIDIA/NemoClaw/pull/7254) and
-[#7406](https://github.com/NVIDIA/NemoClaw/pull/7406).
+<a href="https://github.com/NVIDIA/NemoClaw"><img src="https://github.com/NVIDIA.png?size=96" width="24" height="24" alt="NVIDIA NemoClaw"></a> **NVIDIA/NemoClaw** v0.0.96 [thanked external contributors](https://github.com/NVIDIA/NemoClaw/discussions/7656) whose work shipped in the release, including `@scarab-systems` for onboarding resume coverage and incomplete lifecycle diagnostics in [#7254](https://github.com/NVIDIA/NemoClaw/pull/7254) and [#7406](https://github.com/NVIDIA/NemoClaw/pull/7406).
 
-[Read the release announcement](https://github.com/NVIDIA/NemoClaw/discussions/7656)
+<a href="https://github.com/docker/compose"><img src="https://github.com/docker.png?size=96" width="24" height="24" alt="Docker Compose"></a> **Docker Compose** v5.2.0 [listed](https://github.com/docker/compose/releases/tag/v5.2.0) [#13831](https://github.com/docker/compose/pull/13831) under fixes and named `@scarab-systems` as a new contributor. Rancher Desktop picked up that Compose release in [#10513](https://github.com/rancher-sandbox/rancher-desktop/pull/10513), and Rancher Desktop 2 later picked up a newer Compose version that included the same fix in [#540](https://github.com/rancher-sandbox/rancher-desktop-2/pull/540).
+
+<a href="https://github.com/electron/electron"><img src="https://github.com/electron.png?size=96" width="24" height="24" alt="Electron"></a> **Electron** merged [#52238](https://github.com/electron/electron/pull/52238) on 2026-07-21 after Arch Linux had already [carried the patch](https://gitlab.archlinux.org/archlinux/packaging/packages/electron42/-/merge_requests/1) in its `electron42` package, with [public confirmation](https://github.com/electron/electron/pull/52238#issuecomment-4907611340) that the downstream package patch fixed [#51988](https://github.com/electron/electron/issues/51988).
+
+<a href="https://github.com/emersion/xdg-desktop-portal-wlr"><img src="https://github.com/emersion.png?size=96" width="24" height="24" alt="xdg-desktop-portal-wlr"></a> **xdg-desktop-portal-wlr** included the [#393](https://github.com/emersion/xdg-desktop-portal-wlr/pull/393) `SelectSources` monitor-default fix as [ef264f7](https://github.com/emersion/xdg-desktop-portal-wlr/commit/ef264f759cc03a4c3c6ef9a0066461fb5d72f4ac) in [v0.8.4](https://github.com/emersion/xdg-desktop-portal-wlr/releases/tag/v0.8.4) on 2026-07-28 after owner approval and upstream merge.
 
 ## Selected Merged Work
 
