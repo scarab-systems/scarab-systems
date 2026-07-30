@@ -6,11 +6,11 @@
 
 <p align="center">
   <strong>Public open-source diagnostics and scoped patch delivery.</strong><br>
-  17 merged contributions across 11 repositories.
+  18 merged contributions across 11 repositories.
 </p>
 
 <p align="center">
-  ✅ 17 merged contributions &nbsp; · &nbsp;
+  ✅ 18 merged contributions &nbsp; · &nbsp;
   ✅ 11 repositories &nbsp; · &nbsp;
   ✅ 5 repeat-accepting projects
 </p>
@@ -42,7 +42,7 @@ The work focuses on:
 
 | Metric | Current Record |
 | --- | ---: |
-| Merged public contributions | 17 |
+| Merged public contributions | 18 |
 | Repositories with accepted work | 11 |
 | Repositories accepting repeat contributions | 5 |
 | Public proof repository | [Scarab Field Lab](https://github.com/scarab-systems/scarab-field-lab) |
@@ -83,7 +83,7 @@ The full contribution table and case records live in the
     <td><a href="https://github.com/microsoft/agent-framework"><img src="https://github.com/microsoft.png?size=96" width="24" height="24" alt="Microsoft Agent Framework"> <strong>Microsoft Agent Framework</strong></a></td>
     <td>Agent framework</td>
     <td>✅ Merged</td>
-    <td><a href="https://github.com/microsoft/agent-framework/pull/7322">microsoft/agent-framework#7322</a></td>
+    <td><a href="https://github.com/microsoft/agent-framework/pull/7375">microsoft/agent-framework#7375</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/NVIDIA/NemoClaw"><img src="https://github.com/NVIDIA.png?size=96" width="24" height="24" alt="NVIDIA NemoClaw"> <strong>NVIDIA/NemoClaw</strong></a></td>
@@ -120,7 +120,7 @@ and continuing to work productively inside the project's own standards.
 Repositories with multiple accepted contributions:
 
 - `pnpm/pnpm` - 3
-- `microsoft/agent-framework` - 2
+- `microsoft/agent-framework` - 3
 - `NVIDIA/NemoClaw` - 2
 - `open-multi-agent/open-multi-agent` - 2
 - `sveltejs/kit` - 2
