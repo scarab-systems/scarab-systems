@@ -18,6 +18,10 @@
 <p align="center">
   <a href="https://github.com/scarab-systems/scarab-field-lab">Field Lab</a>
   ·
+  <a href="https://scarabdiagnostics.com/public-proof">Public Proof</a>
+  ·
+  <a href="https://scarabdiagnostics.com/request-review">Request Review</a>
+  ·
   <a href="https://github.com/sponsors/scarab-systems?metadata_campaign=github_profile">Sponsors</a>
   ·
   <a href="https://scarabdiagnostics.com">Website</a>
@@ -37,6 +41,10 @@ The work focuses on:
 - developing scoped patches with repository-native tests and checks;
 - responding to maintainer review;
 - recording public outcomes with clear claim limits.
+
+GitHub Sponsors supports the public open-source work described here. Private
+company and team diagnostic reviews are requested through
+[scarabdiagnostics.com/request-review](https://scarabdiagnostics.com/request-review).
 
 ## Verified Public Record
 
