@@ -6,11 +6,11 @@
 
 <p align="center">
   <strong>Public open-source diagnostics and scoped patch delivery.</strong><br>
-  19 merged contributions across 11 repositories.
+  20 merged contributions across 11 repositories.
 </p>
 
 <p align="center">
-  ✅ 19 merged contributions &nbsp; · &nbsp;
+  ✅ 20 merged contributions &nbsp; · &nbsp;
   ✅ 11 repositories &nbsp; · &nbsp;
   ✅ 5 repeat-accepting projects
 </p>
@@ -50,7 +50,7 @@ company and team diagnostic reviews are requested through
 
 | Metric | Current Record |
 | --- | ---: |
-| Merged public contributions | 19 |
+| Merged public contributions | 20 |
 | Repositories with accepted work | 11 |
 | Repositories accepting repeat contributions | 5 |
 | Public proof repository | [Scarab Field Lab](https://github.com/scarab-systems/scarab-field-lab) |
@@ -109,7 +109,7 @@ The full contribution table and case records live in the
     <td><a href="https://github.com/pnpm/pnpm"><img src="https://github.com/pnpm.png?size=96" width="24" height="24" alt="pnpm"> <strong>pnpm</strong></a></td>
     <td>Package management</td>
     <td>✅ Merged</td>
-    <td><a href="https://github.com/pnpm/pnpm/pull/12301">pnpm/pnpm#12301</a></td>
+    <td><a href="https://github.com/pnpm/pnpm/pull/13671">pnpm/pnpm#13671</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/sveltejs/kit"><img src="https://github.com/sveltejs.png?size=96" width="24" height="24" alt="SvelteKit"> <strong>SvelteKit</strong></a></td>
@@ -127,7 +127,7 @@ and continuing to work productively inside the project's own standards.
 
 Repositories with multiple accepted contributions:
 
-- `pnpm/pnpm` - 3
+- `pnpm/pnpm` - 4
 - `microsoft/agent-framework` - 4
 - `NVIDIA/NemoClaw` - 2
 - `open-multi-agent/open-multi-agent` - 2
