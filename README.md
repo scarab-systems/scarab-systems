@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/scarab-systems/scarab-field-lab/main/assets/scarab-mascot.png" alt="Scarab Systems mascot" width="140">
+  <img src="assets/scarab-mascot.png" alt="Scarab Systems mascot" width="140">
 </p>
 
 <h1 align="center">Scarab Systems</h1>
