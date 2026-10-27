@@ -48,12 +48,19 @@ company and team diagnostic reviews are requested through
 
 ## Verified Public Record
 
+Verified against public GitHub pull request status on **2026-10-27**. Accepted
+contribution totals count merged pull requests only.
+
 | Metric | Current Record |
 | --- | ---: |
 | Merged public contributions | 21 |
 | Repositories with accepted work | 11 |
 | Repositories accepting repeat contributions | 5 |
+| Open public pull requests | [10](https://github.com/search?q=is%3Apr+author%3Ascarab-systems+is%3Apublic+is%3Aopen&type=pullrequests) |
 | Public proof repository | [Scarab Field Lab](https://github.com/scarab-systems/scarab-field-lab) |
+
+The latest accepted contribution is
+[pnpm/pnpm#13812](https://github.com/pnpm/pnpm/pull/13812), merged on 2026-08-20.
 
 Accepted work includes contributions to Docker Compose, Electron, Microsoft
 Agent Framework, NVIDIA/NemoClaw, Open Multi Agent, OpenAPI Generator, pnpm,
@@ -79,7 +86,7 @@ The full contribution table and case records live in the
     <th align="left">Project</th>
     <th align="left">Area</th>
     <th align="left">Status</th>
-    <th align="left">Pull Requested</th>
+    <th align="left">Pull Request</th>
   </tr>
   <tr>
     <td><a href="https://github.com/docker/compose"><img src="https://github.com/docker.png?size=96" width="24" height="24" alt="Docker Compose"> <strong>Docker Compose</strong></a></td>
