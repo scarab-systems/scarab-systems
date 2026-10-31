@@ -22,7 +22,7 @@
   ·
   <a href="https://scarabdiagnostics.com/request-review">Request Review</a>
   ·
-  <a href="https://github.com/sponsors/scarab-systems?metadata_campaign=github_profile">Sponsors</a>
+  <a href="https://github.com/sponsors/scarab-systems?metadata_campaign=github_profile"><img src="https://raw.githubusercontent.com/scarab-systems/scarab-field-lab/main/assets/sponsor-button.svg" alt="Support the open-source work" width="280" height="36"></a>
   ·
   <a href="https://scarabdiagnostics.com">Website</a>
 </p>
