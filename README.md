@@ -144,15 +144,15 @@ Repositories with multiple accepted contributions:
 
 ## Why Sponsorship Matters
 
-I developed Scarab Diagnostics to help me investigate difficult software problems and provide practical, evidence-backed assistance to open-source projects.
+We developed Scarab Diagnostics to help us investigate difficult software problems and provide practical, evidence-backed assistance to open-source projects.
 
-The software gives me the capability to trace failures, define focused repair boundaries, develop patches, and validate them within unfamiliar repositories. That work has already resulted in accepted contributions across multiple public projects.
+The software gives us the capability to trace failures, define focused repair boundaries, develop patches, and validate them within unfamiliar repositories. That work has already resulted in accepted contributions across multiple public projects.
 
-What limits how much I can contribute is the amount of time I can sustainably dedicate to the work.
+What limits how much we can contribute is the amount of time we can sustainably dedicate to the work.
 
-GitHub sponsorship would directly help support me while I investigate public issues, implement and test patches, respond to maintainer feedback, and follow contributions through to completion. It would allow me to spend less time securing unrelated income and more time providing real, measurable help to open-source projects.
+GitHub sponsorship would directly help support us while we investigate public issues, implement and test patches, respond to maintainer feedback, and follow contributions through to completion. It would allow us to spend less time securing unrelated income and more time providing real, measurable help to open-source projects.
 
-The work remains public. Sponsors are helping create the time and financial stability needed for me to do more of it.
+The work remains public. Sponsors are helping create the time and financial stability needed for us to do more of it.
 
 ## Public Boundary
 
