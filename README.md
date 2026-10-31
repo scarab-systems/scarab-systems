@@ -144,15 +144,15 @@ Repositories with multiple accepted contributions:
 
 ## Why Sponsorship Matters
 
-We developed Scarab Diagnostics to help us investigate difficult software problems and provide practical, evidence-backed assistance to open-source projects.
+Scarab Systems is an independent developer's project focused on investigating difficult software problems and providing practical, evidence-backed assistance to open-source projects.
 
-The software gives us the capability to trace failures, define focused repair boundaries, develop patches, and validate them within unfamiliar repositories. That work has already resulted in accepted contributions across multiple public projects.
+The work uses Scarab Diagnostics to help trace failures and define focused repair boundaries. Patches are developed and validated within each project's own repository. That work has already resulted in accepted contributions across multiple public projects.
 
-What limits how much we can contribute is the amount of time we can sustainably dedicate to the work.
+The amount of public work depends on the time that can be dedicated to it sustainably.
 
-GitHub sponsorship would directly help support us while we investigate public issues, implement and test patches, respond to maintainer feedback, and follow contributions through to completion. It would allow us to spend less time securing unrelated income and more time providing real, measurable help to open-source projects.
+Sponsorship supports dedicated time to investigate public issues, implement and test patches, respond to maintainer feedback, and follow contributions through to completion. It helps reduce reliance on unrelated income and makes more time available for practical open-source contributions.
 
-The work remains public. Sponsors are helping create the time and financial stability needed for us to do more of it.
+The work remains public. Sponsors help create the time and financial stability needed to do more of it.
 
 ## Public Boundary
 
